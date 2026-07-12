@@ -7,11 +7,11 @@ pip install -r requirements.txt
 ```
 
 ## Uso
-1. Coloca los archivos `.png` en la misma carpeta que `real-png.py`.
+1. Coloca los archivos `.png` en la misma carpeta que `alpha-png.py`.
 2. Ejecuta:
 
 ```bash
-python real-png.py
+python alpha-png.py
 ```
 
 El programa mostrará qué imágenes usan transparencia y cuales no.
